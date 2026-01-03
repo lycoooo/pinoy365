@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sript BOt Pinoy365
 // @namespace    Script bot for Pinoy36565
-// @version      1.02
+// @version      1.0
 // @description  Enhanced bot with internet connection check and auto-update
 // @match        https://www.pinoy365.app/m/register?r=unl8126
 // @match        https://www.pinoy365.app/m/home*
